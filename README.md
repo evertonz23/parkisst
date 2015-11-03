@@ -1,2 +1,2 @@
 # parkisst
-Parkisst - Assistente de Estacionamento
+Assistente de Estacionamento
